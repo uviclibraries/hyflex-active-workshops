@@ -7,9 +7,9 @@ nav_order: 1
 
 # Creating & Teaching HyFlex, Active Learning Workshops
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 18 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 60 min
 
 ## Why HyFlex, Active Learning Workshops? 
 
