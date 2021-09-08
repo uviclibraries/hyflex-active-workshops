@@ -13,16 +13,16 @@ nav_order: 1
 
 ## Why HyFlex, Active Learning Workshops? 
 
-"Learning is not a spectator sport!" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education){:target="_blank"}) A HyFlex, Active Learning teaching method allows instructors to devote as much face-to-face, or synchronous, time as possible to active learning tasks. The Hyflex method used by the UVic Libraries DSC also provides asynchronous active learning tasks for workshop participants who are not able to participate in classroom based or live video sessions, along with the pre-workshop videos and activities (which are sometimes called Flipped Learning activities).
+"Learning is not a spectator sport!" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education){:target="_blank"}) A HyFlex, Active Learning teaching method allows instructors to devote as much face-to-face workshop time as possible to active learning tasks, while providing asynchronous active learning tasks for workshop participants who are not able to participate in classroom based or live video sessions. A large part of Hyflex is often called the Flipped Learning teaching method where pre-workshop instruction is provided in the form of videos, readings, so that there is time for Active Learning tasks in face-to-face class time. 
 
-This workshop is a quick introductoin to the Hyflex, Active Learning teaching method used by the [University of Victoria Libaries, Digital Scholarship Commons](https://uvic.ca/library/dsc/) for their Digital Fluency workshops.
+This workshop is a gentle introduction to the Hyflex, Active Learning teaching method used by the [University of Victoria Libaries, Digital Scholarship Commons](https://uvic.ca/library/dsc/) for their Digital Fluency workshops, and was created for use by librarians, graduate assistants, and staff who are teaching Digital Fluency workshops. 
 
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
 
 1. Describe how an active HyFlex workshop functions, and what are its strengths and weaknesses for teaching digital fluency skills.
-2. Use a backward design methodology to create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, or in-class activities.
+2. Use a backward design methodology to create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, in-class activities, and asynchronous activities.
 2. When designing workshop activities, you will use teaching methods to differentiate the learning experiences for learners of different abilities (i.e. enable learners to work at their own pace).
 3. Identify ways to help connect the new skills being learned into knowledge the learners already have in the in-class activity.
 4. Find or create appropriate pre-workshop videos and/or readings to prepare learners for the face-to-face hands-on activities.
