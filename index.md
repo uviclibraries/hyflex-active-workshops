@@ -3,15 +3,15 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/hyflex-logo.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Creating & Teaching HyFlex, Active Learning Workshops
 
 - Pre-workshop activities: 00 min 
 - Introductory presentation: 00 min
 - Hands-on activities: 00-00 min
 
-## Why TOOL NAME HERE? 
+## Why HyFlex, Active Learning Workshops? 
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
 
@@ -29,10 +29,14 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
+1. Will describe how an active HyFlex workshop functions, and what are its strengths and weaknesses for teaching digital fluency skills.
+2. Will create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, or in-class activities.
+When designing workshop activities, participants will use pedagogies to differentiate the learning experiences for learners of different abilities (i.e. enable learners to work at their own pace).
+3. Will identify ways to help connect the new skills being learned into knowledge the learners already have in the in-class activity.
+4. Will find or create appropriate pre-workshop videos and/or readings to prepare learners for the face-to-face hands-on activities.
+5. Will create alternate asynchronous activities for participants who cannot attend synchronous sessions, that achieve the same learning objectives, but usually in different ways.
+6. Will create an outline for a new workshop in the following order: learning outcomes, in-class activities, pre-class prep quiz, pre-class videos, and finally, post-class assessment.
+7. Will describe the difference between leading a workshop as a “Guide on the Side” as opposed to as a “Sage on the Stage.”
+8. Will model best practices for leading a HyFlex digital fluency workshop, including energy level, introductions, and identifying participants who need help and aren’t asking for it.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
