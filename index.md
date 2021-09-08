@@ -13,7 +13,9 @@ nav_order: 1
 
 ## Why HyFlex, Active Learning Workshops? 
 
-"Learning is not a spectator sport!" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education){:target="_blank"}) HyFlex, Active Learning Workshops ...
+"Learning is not a spectator sport!" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education){:target="_blank"}) A HyFlex, Active Learning teaching method allows instructors to devote as much face-to-face, or synchronous, time as possible to active learning tasks. The Hyflex method used by the UVic Libraries DSC also provides asynchronous active learning tasks for workshop participants who are not able to participate in classroom based or live video sessions, along with the pre-workshop videos and activities (which are sometimes called Flipped Learning activities).
+
+This workshop is a quick introductoin to the Hyflex, Active Learning teaching method used by the [University of Victoria Libaries, Digital Scholarship Commons](https://uvic.ca/library/dsc/) for their Digital Fluency workshops.
 
 ## Learning objectives
 
