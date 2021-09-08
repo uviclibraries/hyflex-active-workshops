@@ -29,14 +29,14 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 
 At the end of this workshop, you will be able to:
 
-1. Will describe how an active HyFlex workshop functions, and what are its strengths and weaknesses for teaching digital fluency skills.
-2. Will create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, or in-class activities.
-When designing workshop activities, participants will use pedagogies to differentiate the learning experiences for learners of different abilities (i.e. enable learners to work at their own pace).
-3. Will identify ways to help connect the new skills being learned into knowledge the learners already have in the in-class activity.
-4. Will find or create appropriate pre-workshop videos and/or readings to prepare learners for the face-to-face hands-on activities.
-5. Will create alternate asynchronous activities for participants who cannot attend synchronous sessions, that achieve the same learning objectives, but usually in different ways.
-6. Will create an outline for a new workshop in the following order: learning outcomes, in-class activities, pre-class prep quiz, pre-class videos, and finally, post-class assessment.
-7. Will describe the difference between leading a workshop as a “Guide on the Side” as opposed to as a “Sage on the Stage.”
-8. Will model best practices for leading a HyFlex digital fluency workshop, including energy level, introductions, and identifying participants who need help and aren’t asking for it.
+1. Describe how an active HyFlex workshop functions, and what are its strengths and weaknesses for teaching digital fluency skills.
+2. Use a backward design methodology to create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, or in-class activities.
+2. When designing workshop activities, you will use teaching methods to differentiate the learning experiences for learners of different abilities (i.e. enable learners to work at their own pace).
+3. Identify ways to help connect the new skills being learned into knowledge the learners already have in the in-class activity.
+4. Find or create appropriate pre-workshop videos and/or readings to prepare learners for the face-to-face hands-on activities.
+5. Create alternate asynchronous activities for participants who cannot attend synchronous sessions; alternate activities will achieve the same learning objectives, but usually in different ways.
+6. Create an outline for a new workshop in the following order: learning outcomes, in-class activities, pre-class prep quiz, pre-class videos, and finally, post-class assessment.
+7. Describe the difference between leading a workshop as a “Guide on the Side” as opposed to as a “Sage on the Stage.”
+8. Model best practices for leading a HyFlex digital fluency workshop, including energy level, introductions, and identifying participants who need help and aren’t asking for it.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
