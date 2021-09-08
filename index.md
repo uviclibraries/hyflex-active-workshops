@@ -13,9 +13,9 @@ nav_order: 1
 
 ## Why HyFlex, Active Learning Workshops? 
 
-"Learning is not a spectator sport!" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education)) HyFlex, Active Learning Workshops a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+"Learning is not a spectator sport!" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education){:target="_blank"}) HyFlex, Active Learning Workshops ...
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
