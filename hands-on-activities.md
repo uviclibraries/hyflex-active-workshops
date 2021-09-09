@@ -27,8 +27,9 @@ parent: Workshop Activities
   - Step 3: On the right side of the TinkerCad click on “**Basic Shapes**” and then select the “**Text and Numbers**” option. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. (active, contextual, choice, differentiated)
   - Step 4: Drag and drop all the letters from either your name onto the workplane. (active, contextual, choice, differentiated)
  <img src="images/ricardo.png" alt="Ricardo Design">
-  - Step 5: Select all the letters and then click on the “Align Button” (active, contextual, differentiated, prior knowledge)
+  - <img src="images/align-button.png" style="float:right;width:250px;" alt="Align Button"> Step 5: Select all the letters and then click on the “Align Button” (active, contextual, differentiated, prior knowledge)
   - Step 6: Then click on the “handle on the bottom left of the text to align the text along the bottom. (active, contextual, differentiated, prior knowledge)
+<img src="images/ricardo2.png" alt="Ricardo Design">
 
 See this handout for the rest of the in-class activity instructions:  http://bit.ly/2ZDgT6M 
 Flesh out each high-level step you create with sub-steps so that someone with little to no experience can complete the activity.
