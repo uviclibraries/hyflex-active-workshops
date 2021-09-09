@@ -7,17 +7,18 @@ parent: Workshop Activities
 
 # In-Workshop Hands-On Activities
 
-1. **[Open and scroll down to Activity #6](https://docs.google.com/document/d/1X3FChiF7T135sEjjxO69oamhIYPaxpiF42uLjVIxopI/edit#){:target="_blank"}**
+**[Open and scroll down to Activity #6](https://docs.google.com/document/d/1X3FChiF7T135sEjjxO69oamhIYPaxpiF42uLjVIxopI/edit#){:target="_blank"}**
 
 ** DON'T DO ACTIVITIES BELOW!**
 
 1. When thinking about & creating activities for an active-learning workshop, there are few guidelines to keep in mind that can help to ensure that your activities are as engaging & as relevant as possible:
 - **Active**: Learning is not a spectator sport! Get participants engaged in skill development as quickly as possible and for as much time as possible. Lecture for only as long as absolutely necessary to get the hands-on work started.
-Contextual: Just-in-time learning to help participants with immediate problems or learning needs, not just-in-case learning (unless that is what the learner wants).
-Choice: Students should be given as much choice as possible during the workshop, especially, if possible with what they create with the new skills they are learning. 
-Differentiated: Allow participants to work at their own pace, and to customize the workshop with differentiated scaffolding to accommodate the various skill level that they bring with them.
-Connect to Prior Knowledge: Connect new skills in the workshop to prior participant knowledge. This is more difficult to do in a one-off workshop, but asking students what discipline they work in and what they hope to get out of the workshop during introductions at the beginning can help.
-Create an active-learning in-class activity title & steps:
+- **Contextual**: Just-in-time learning to help participants with immediate problems or learning needs, not just-in-case learning (unless that is what the learner wants).
+- **Choice**: Students should be given as much choice as possible during the workshop, especially, if possible with what they create with the new skills they are learning. 
+- **Differentiated**: Allow participants to work at their own pace, and to customize the workshop with differentiated scaffolding to accommodate the various skill level that they bring with them.
+- **Connect to Prior Knowledge**: Connect new skills in the workshop to prior participant knowledge. This is more difficult to do in a one-off workshop, but asking students what discipline they work in and what they hope to get out of the workshop during introductions at the beginning can help.
+
+2. Create an active-learning in-class activity title & steps:
 Refer back to the workshop title and list of learning outcomes you created in Activity #1 and try to think of an activity that will that can help meet one or more of the learning outcomes, while ideally also following the active-learning guidelines: active, contextual, provide choice, be differentiated, and connect to prior knowledge. It’s not always possible to create an activity that can follow all of those guidelines but do your best.
 For example, here is an active in-class activity title for an introduction to 3D design workshop: Design with Tinkercad Keychain In-Class Activity.
 On the Instructor Outline Template form, please add the title of your activity.
