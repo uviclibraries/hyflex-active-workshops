@@ -36,7 +36,7 @@ parent: Workshop Activities
   - “By the end of this workshop participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
 - **Create two or more SMART learning outcomes** in the instructor outline in the **Learning outcomes** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning outcomes and as many as nine.
 
-**Learning outcomes:**
+<br>**Learning outcomes:**
 
 A. __________________________________<br>
 B. __________________________________<br>
