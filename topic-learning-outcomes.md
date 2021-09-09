@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Choosing a Topic & Creating Learning Outcomes
 
 1. We have provided a workshop template for you to use, to help you organize your workshop, and you can either use a printed copy of the template provided by the workshop instructor or open the template below and make a copy for yourself to use as you create your own workshop: 
-- Open Instructor outline template (a Google Doc): http://bit.ly/2SKcBf6 
+- **[Open Instructor outline template](http://bit.ly/2SKcBf6){:target="_blank"}** (a Google Doc)
 - **File** -> **Make a Copy…**   Give your workshop an appropriate name. You may want to put this handout and the
 
 2. Select your workshop topic for today:
