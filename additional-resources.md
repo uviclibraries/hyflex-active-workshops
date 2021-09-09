@@ -5,8 +5,10 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## Hyflex, Active Learning Resources
 
+- [The HyFlex Course Model concise definition](https://www.niu.edu/keepteaching/resources/hyflex-course-model.shtml){:target="_blank"}, from Northern Illinois University Teaching & Learning (web page)
+- 
 
 ## Acknowledgements
 
