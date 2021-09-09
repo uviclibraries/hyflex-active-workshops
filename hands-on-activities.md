@@ -31,7 +31,7 @@ parent: Workshop Activities
   - Step 6: Then click on the “handle on the bottom left of the text to align the text along the bottom. (active, contextual, differentiated, prior knowledge)
 <img src="images/ricardo2.png" alt="Ricardo Design">
   - See this handout for the rest of the in-class activity instructions:  http://bit.ly/2ZDgT6M 
-- Flesh out each high-level step you create with sub-steps so that someone with little to no experience can complete the activity.
+- **Flesh out each high-level step you create with sub-steps so that someone with little to no experience can complete the activity.**
 
 In-Class Activity Steps:
 1. _______________________________________________________
