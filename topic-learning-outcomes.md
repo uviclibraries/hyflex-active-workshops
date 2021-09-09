@@ -36,10 +36,11 @@ parent: Workshop Activities
   - “By the end of this workshop participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
 - **Create two or more SMART learning outcomes** in the instructor outline in the **Learning outcomes** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning outcomes and as many as nine.
 
-**Learning outcomes:** <br>
-**A. __________________________________<br>
-**B. __________________________________<br>
-**C. __________________________________<br>
+**Learning outcomes:
+
+A. __________________________________<br>
+B. __________________________________<br>
+C. __________________________________<br>
 
 - After creating the learning outcomes for your workshop, you need to decide if the learning outcomes can be achieved within the parameters of a typical DSC workshop. Workshop parameters typically include:
   - How much time do you have to run the workshop? 60 minute, 90 minutes, all day? Estimate the length of time it will take to achieve each of the learning outcomes. Can you cover them all at least minimally in the time available?
