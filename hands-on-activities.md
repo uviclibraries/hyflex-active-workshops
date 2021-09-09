@@ -43,11 +43,16 @@ In-Class Activity Steps:
 7. _______________________________________________________
 8. _______________________________________________________
 
-Where appropriate, insert graphics where visualizations can help participants better understand what they need to do better than text alone. Creative Commons licensed images can be copied and pasted into your Google Doc, and then cited at the end of the document.
-Review your in-class activity to make sure that as much as possible the activity is: 
-Active, Contextual, Student Choice, Differentiated, and Connected to Prior Knowledge.
-Multiple activities often need to be created to cover all of the learning outcomes for the workshop and can help you differentiate for different skill levels and different participant learning goals. 
-For example an introduction to Excel workshop took five separate activities to cover all of the learning outcomes, however, participants could choose to complete only the activities that were relevant to them.
-Some participants had some experience with Excel, so they could skip ahead to the more advanced activities. For others, creating a Pivot table was an important skill to acquire, while most simply wanted to learn how to use basic functions, and create charts and tables from the results. 
-Using multiple activities with handouts gives participants choice and the ability to work at their own pace, while having an instructor present to answer questions. Sometimes this form of instruction, when combined with pre-workshop videos or readings, is called flipped learning.
+- Where appropriate, **insert graphics where visualizations can help participants better understand what they need to do better than text alone**. Creative Commons licensed images can be copied and pasted into your Google Doc, and then cited at the end of the document.
 
+3. **Review your in-class activity to make sure that as much as possible the activity is**: 
+- Active, 
+- Contextual, 
+- Student Choice, 
+- Differentiated, 
+- Connected to Prior Knowledge.
+
+4. Multiple activities often need to be created to cover all of the learning outcomes for the workshop and can help you differentiate for different skill levels and different participant learning goals. 
+- For example an introduction to Excel workshop took five separate activities to cover all of the learning outcomes, however, participants could choose to complete only the activities that were relevant to them.
+- Some participants had some experience with Excel, so they could skip ahead to the more advanced activities. For others, creating a Pivot table was an important skill to acquire, while most simply wanted to learn how to use basic functions, and create charts and tables from the results. 
+- Using multiple activities with handouts gives participants choice and the ability to work at their own pace, while having an instructor present to answer questions. Sometimes this form of instruction, when combined with pre-workshop videos or readings, is called flipped learning.
