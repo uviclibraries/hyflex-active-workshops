@@ -6,8 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on that will help you create the outline and some content for a Hyflex, Active Learning workshop. To participate fully please do the following **before the workshop**:
 
-**30 minutes.**<br>
-- Before you arrive at the workshop, please think of a new workshop tool or topic that might make a good new DSC or Digital Fluency workshop. For example I'm interested in the Voyant Data Vistualization tool set. I would use the Voyantl tool set to create a workshop outline, and possible activities during our face-to-face workshop time. 
+- **Before you arrive at the workshop**, please think of a new workshop tool or topic that might make an interesting workshop for the DSC (or for your organization if you are not part of the DSC). For example, I am interested in the Voyant Data Vistualization toolset and think it would be a good workshop topic. I would use the Voyant toolset topic to create a workshop outline, and possible activities during our face-to-face workshop time. 
 - [HyFlex - Learn from Anywhere!](https://www.youtube.com/watch?v=9OmqjtcOnI4){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9OmqjtcOnI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Flipping the Classroom](https://www.youtube.com/watch?v=iQWvc6qhTds){:target="_blank"} (2 min)<br>
