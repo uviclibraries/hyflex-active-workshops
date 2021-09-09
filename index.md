@@ -7,36 +7,28 @@ nav_order: 1
 
 # Creating & Teaching HyFlex, Active Learning Workshops
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 30 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 60 min
 
 ## Why HyFlex, Active Learning Workshops? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+"**Learning is not a spectator sport!**" ([Chickering & Gamson, 1987](https://www.researchgate.net/publication/228044220_Seven_Principles_of_Good_Practice_in_Undergraduate_Education){:target="_blank"}) A [HyFlex, Active Learning](https://www.niu.edu/keepteaching/resources/hyflex-course-model.shtml){:target="_blank"} teaching method typically allows instructors to devote the vast majority of face-to-face workshop time to active learning tasks, while at the same time providing asynchronous active learning tasks for workshop participants who are not able to participate in classroom based or live video workshop sessions. A large part of Hyflex is often called the [Flipped Learning teaching method](https://flippedlearning.org/wp-content/uploads/2016/07/FLIP_handout_FNL_Web.pdf){:target="_blank"} where pre-workshop instruction is provided in the form of videos, readings, so that there is more time for Active Learning tasks in the face-to-face class. 
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+This workshop is a gentle introduction to the Hyflex, Active Learning teaching method used by the [University of Victoria Libaries, Digital Scholarship Commons](https://uvic.ca/library/dsc/){:target="_blank"} for their Digital Fluency workshops, and was created for use by librarians, graduate assistants, and staff who are teaching, or would like to teach engaging Digital Fluency workshops. 
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Will describe how an active HyFlex workshop functions, and what are its strengths and weaknesses for teaching digital fluency skills.
-2. Will create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, or in-class activities.
-When designing workshop activities, participants will use pedagogies to differentiate the learning experiences for learners of different abilities (i.e. enable learners to work at their own pace).
-3. Will identify ways to help connect the new skills being learned into knowledge the learners already have in the in-class activity.
-4. Will find or create appropriate pre-workshop videos and/or readings to prepare learners for the face-to-face hands-on activities.
-5. Will create alternate asynchronous activities for participants who cannot attend synchronous sessions, that achieve the same learning objectives, but usually in different ways.
-6. Will create an outline for a new workshop in the following order: learning outcomes, in-class activities, pre-class prep quiz, pre-class videos, and finally, post-class assessment.
-7. Will describe the difference between leading a workshop as a “Guide on the Side” as opposed to as a “Sage on the Stage.”
-8. Will model best practices for leading a HyFlex digital fluency workshop, including energy level, introductions, and identifying participants who need help and aren’t asking for it.
+1. Describe how an active HyFlex workshop functions, and what are its strengths and weaknesses for teaching digital fluency skills.
+2. Use a backward design methodology to create three or more SMART learning outcomes for a digital fluency workshop before creating pre-class activities, in-class activities, and asynchronous activities.
+2. When designing workshop activities, you will use teaching methods to differentiate the learning experiences for learners of different abilities (i.e. enable learners to work at their own pace).
+3. Identify ways to help connect the new skills being learned into knowledge the learners already have in the in-class activity.
+4. Find or create appropriate pre-workshop videos and/or readings to prepare learners for the face-to-face hands-on activities.
+5. Create alternate asynchronous activities for participants who cannot attend synchronous sessions; alternate activities will achieve the same learning objectives, but usually in different ways.
+6. Create an outline for a new workshop in the following order: learning outcomes, in-class activities, pre-class prep quiz, pre-class videos, and finally, post-class assessment.
+7. Describe the difference between leading a workshop as a “Guide on the Side” as opposed to as a “Sage on the Stage.”
+8. Model best practices for leading a HyFlex digital fluency workshop, including energy level, introductions, and identifying participants who need help and aren’t asking for it.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
