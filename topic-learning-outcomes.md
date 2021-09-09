@@ -32,8 +32,7 @@ parent: Workshop Activities
   - **Time-based**: When will the learning outcome be successfully completed? During or at the end of the workshop? At a future workshop or future date?
 - Here are two examples of SMART learning outcomes:
   - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create the compound object(s) they desire.” 
-
-<img src="images/smart.png"alt="SMART Learning outcomes">
+<img src="images/smart.png" alt="SMART Learning outcomes">
   - “By the end of this workshop participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
 - **Create two or more SMART learning outcomes** in the instructor outline in the **Learning outcomes** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning outcomes and as many as nine.
 
