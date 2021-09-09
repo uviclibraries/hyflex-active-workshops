@@ -4,6 +4,7 @@ title: 2-Choose Topic & Learning Outcomes
 nav_order: 2
 parent: Workshop Activities
 ---
+<img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
 # Choosing a Topic & Creating Learning Outcomes
 
 1. We have provided a workshop template for you to use, to help you organize your workshop, and you can either use a printed copy of the template provided by the workshop instructor or open the template below and make a copy for yourself to use as you create your own workshop: 
@@ -31,6 +32,7 @@ parent: Workshop Activities
   - **Time-based**: When will the learning outcome be successfully completed? During or at the end of the workshop? At a future workshop or future date?
 - Here are two examples of SMART learning outcomes:
   - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create the compound object(s) they desire.” 
+<img src="images/smart.png"alt="SMART Learning outcomes">
   - “By the end of this workshop participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
 - **Create two or more SMART learning outcomes** in the instructor outline in the **Learning outcomes** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning outcomes and as many as nine.
 
