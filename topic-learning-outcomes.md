@@ -4,11 +4,12 @@ title: 2-Choose Topic & Learning Outcomes
 nav_order: 2
 parent: Workshop Activities
 ---
+<img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
 # Choosing a Topic & Creating Learning Outcomes
 
 1. We have provided a workshop template for you to use, to help you organize your workshop, and you can either use a printed copy of the template provided by the workshop instructor or open the template below and make a copy for yourself to use as you create your own workshop: 
-- Open Instructor outline template (a Google Doc): http://bit.ly/2SKcBf6 
-- **File** -> **Make a Copy…**   Give your workshop an appropriate name. You may want to put this handout and the
+- **[Open Instructor outline template](http://bit.ly/2SKcBf6){:target="_blank"}** (a Google Doc)
+- **File** -> **Make a Copy…**   Give your workshop an appropriate name.
 
 2. Select your workshop topic for today:
 - Select or create a topic for an introductory workshop that you would like to create. The topic should be something that you have some interest or expertise in, as well as the tools and classroom space to effectively teach. You can always change your topic, and you don't need to turn this into a real workshop, so don't worry about having a high quality topic for the workshop. The point is to have a topic that you can practice turing into a high quality workshop outline.
@@ -31,13 +32,15 @@ parent: Workshop Activities
   - **Time-based**: When will the learning outcome be successfully completed? During or at the end of the workshop? At a future workshop or future date?
 - Here are two examples of SMART learning outcomes:
   - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create the compound object(s) they desire.” 
+<img src="images/smart.png" alt="SMART Learning outcomes">
   - “By the end of this workshop participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
 - **Create two or more SMART learning outcomes** in the instructor outline in the **Learning outcomes** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning outcomes and as many as nine.
 
-**Learning outcomes:**
-A. __________________________________
-B. __________________________________
-C. __________________________________
+<br>**Learning outcomes:**
+
+A. __________________________________<br>
+B. __________________________________<br>
+C. __________________________________<br>
 
 - After creating the learning outcomes for your workshop, you need to decide if the learning outcomes can be achieved within the parameters of a typical DSC workshop. Workshop parameters typically include:
   - How much time do you have to run the workshop? 60 minute, 90 minutes, all day? Estimate the length of time it will take to achieve each of the learning outcomes. Can you cover them all at least minimally in the time available?
