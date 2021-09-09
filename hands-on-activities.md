@@ -34,14 +34,7 @@ parent: Workshop Activities
 - **Flesh out each high-level step you create with sub-steps so that someone with little to no experience can complete the activity.**
 
 In-Class Activity Steps:
-1. _______________________________________________________
-2. _______________________________________________________
-3. _______________________________________________________
-4. _______________________________________________________
-5. _______________________________________________________
-6. _______________________________________________________
-7. _______________________________________________________
-8. _______________________________________________________
+- _______________________________________________________
 
 - Where appropriate, **insert graphics where visualizations can help participants better understand what they need to do better than text alone**. Creative Commons licensed images can be copied and pasted into your Google Doc, and then cited at the end of the document.
 
