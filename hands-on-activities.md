@@ -7,10 +7,6 @@ parent: Workshop Activities
 
 # In-Workshop Hands-On Activities
 
-**[Open and scroll down to Activity #6](https://docs.google.com/document/d/1X3FChiF7T135sEjjxO69oamhIYPaxpiF42uLjVIxopI/edit#){:target="_blank"}**
-
-**DON'T DO ACTIVITIES BELOW!**
-
 1. When thinking about & creating activities for an active-learning workshop, there are few guidelines to keep in mind that can help to ensure that your activities are as engaging & as relevant as possible:
 - **Active**: Learning is not a spectator sport! Get participants engaged in skill development as quickly as possible and for as much time as possible. Lecture for only as long as absolutely necessary to get the hands-on work started.
 - **Contextual**: Just-in-time learning to help participants with immediate problems or learning needs, not just-in-case learning (unless that is what the learner wants).
@@ -27,7 +23,7 @@ parent: Workshop Activities
 
 - **Next start to outline the major steps that a participant will need to in order to successfully complete your activity.** For example, below are the major steps in bullet form for participants to follow for designing a [3D keychain in-class activity](http://bit.ly/2ZDgT6M){:target="_blank"}. 
   - Step 1: If you haven’t already, please go to the TinkerCad website and create an account for yourself: [http://tinkercad.com](http://tinkercad.com){:target="_blank"}. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page. (active, differenciated)
-  - Step 2: Click “Create new design”. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. (active, contextual, differentiated)
+  - <img src="images/create-new-design.png " style="float:right;width:180px;" alt="Create New Design"> Step 2: Click “Create new design”. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. (active, contextual, differentiated)
   - Step 3: On the right side of the TinkerCad click on “Basic Shapes” and then select the “Text and Numbers” option. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. (active, contextual, choice, differentiated)
   - Step 4: Drag and drop all the letters from either your name onto the workplane. (active, contextual, choice, differentiated)
   - Step 5: Select all the letters and then click on the “Align Button” (active, contextual, differentiated, prior knowledge)
