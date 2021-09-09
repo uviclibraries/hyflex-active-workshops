@@ -23,9 +23,10 @@ parent: Workshop Activities
 
 - **Next start to outline the major steps that a participant will need to in order to successfully complete your activity.** For example, below are the major steps in bullet form for participants to follow for designing a [3D keychain in-class activity](http://bit.ly/2ZDgT6M){:target="_blank"}. 
   - Step 1: If you haven’t already, please go to the TinkerCad website and create an account for yourself: [http://tinkercad.com](http://tinkercad.com){:target="_blank"}. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page. (active, differenciated)
-  - <img src="images/create-new-design.png" style="float:right;width:250px;" alt="Create New Design"> Step 2: Click “Create new design”. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. (active, contextual, differentiated)
-  - Step 3: On the right side of the TinkerCad click on “Basic Shapes” and then select the “Text and Numbers” option. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. (active, contextual, choice, differentiated)
+  - <img src="images/create-new-design.png" style="float:right;width:250px;" alt="Create New Design"> Step 2: Click “**Create new design**”. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. (active, contextual, differentiated)
+  - Step 3: On the right side of the TinkerCad click on “**Basic Shapes**” and then select the “**Text and Numbers**” option. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. (active, contextual, choice, differentiated)
   - Step 4: Drag and drop all the letters from either your name onto the workplane. (active, contextual, choice, differentiated)
+ <img src="images/ricardo.png" alt="Ricardo Design">
   - Step 5: Select all the letters and then click on the “Align Button” (active, contextual, differentiated, prior knowledge)
   - Step 6: Then click on the “handle on the bottom left of the text to align the text along the bottom. (active, contextual, differentiated, prior knowledge)
 
