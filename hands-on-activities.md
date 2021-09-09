@@ -30,7 +30,7 @@ parent: Workshop Activities
   - <img src="images/align-button.png" style="float:right;" alt="Align Button"> Step 5: Select all the letters and then click on the “**Align Button**” (active, contextual, differentiated, prior knowledge)
   - Step 6: Then click on the “handle on the bottom left of the text to align the text along the bottom. (active, contextual, differentiated, prior knowledge)
 <img src="images/ricardo2.png" alt="Ricardo Design">
-  - See this handout for the rest of the in-class activity instructions:  http://bit.ly/2ZDgT6M 
+  - See this handout for the rest of the in-class activity instructions: **[Handout](http://bit.ly/2ZDgT6M){:target="_blank"}** 
 - **Flesh out each high-level step you create with sub-steps so that someone with little to no experience can complete the activity.**
 
 In-Class Activity Steps:
