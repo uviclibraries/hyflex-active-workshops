@@ -52,4 +52,4 @@ parent: Workshop Activities
 
 Good job! Time to move on to creating some pre-workshop activites to help prepare participants to fully engage in learning activities as quickly as possible.
 
-[NEXT STEP: Pre-Workshop Materials](pre-workshop-materials.html){: .btn .btn-blue }
+[NEXT STEP: Pre-Workshop Activities](pre-workshop-activities.html){: .btn .btn-blue }
