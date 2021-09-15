@@ -31,7 +31,7 @@ parent: Workshop Activities
 5. The same goes with readings. You can create your own, but you may also be able to find many high quality open educational resources that you can link to and cite.
 
 ### Trial Run:
-6.Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
+6. <img src="images/flipped-students.png" style="float:right;width:300px;" alt="Students Learning in a Flipped classroom">Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
 
 ### Teaching Tips:
 7. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
