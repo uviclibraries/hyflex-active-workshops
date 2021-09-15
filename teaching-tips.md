@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Teaching Tips
+title: 5-Teaching Tips & Trial Run
 nav_order: 5
 parent: Workshop Activities
 ---
@@ -24,7 +24,7 @@ parent: Workshop Activities
 - What is one thing they hope to get out of the workshop?
 7. Make workshop activities directly relevant: Encourage participants to use their own data, or customize the in-class activities so that they can tackle one of their own projects as they learn new skills during the workshop (if possible).
 Positive Feedback: Give positive feedback to participants as often as you can. This is particularly important for learners who are struggling, or in introductory workshops where learners are still mastering the basics.  Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
-### Trial Runs
+### Trial Runs:
 8. Have someone who is not familiar with the workshop topic work through the pre-class work and in-class activities to make sure that it all makes sense and that there are no obvious errors.
 9. Next, do a trial run workshop from start to finish with a group of in-house novices in order to identify any issues with the content or flow of the workshop in a real-life situation. Don’t forget to solicit feedback on the pre-workshop materials and registration process.
 
