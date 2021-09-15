@@ -30,4 +30,4 @@ Positive Feedback: Give positive feedback to participants as often as you can. T
 8. Have someone who is not familiar with the workshop topic work through the pre-class work and in-class activities to make sure that it all makes sense and that there are no obvious errors.
 9. Next, do a trial run workshop from start to finish with a group of in-house novices in order to identify any issues with the content or flow of the workshop in a real-life situation. Don’t forget to solicit feedback on the pre-workshop materials and registration process.
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Summary & Quick Tips](summary-tips.html){: .btn .btn-blue }
