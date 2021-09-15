@@ -26,3 +26,6 @@ parent: Workshop Activities
 [______] _______________________________________ (___ min) - ____________________ <br>
 [______] _______________________________________ (___ min) - ____________________ <br>
 
+Good job! Time to move on to teaching tips and scheduling a trial run for your workshop.
+
+[NEXT STEP: Teaching Tips & Trial Run](teaching-tips.html){: .btn .btn-blue }
