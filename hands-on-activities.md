@@ -31,10 +31,12 @@ parent: Workshop Activities
   - See this handout for the rest of the in-class activity instructions: **[Handout](http://bit.ly/2ZDgT6M){:target="_blank"}** 
   - **Flesh out each high-level step you create with sub-steps so that someone with little to no experience can complete the activity.**
 
-In-Class Activity Steps:
-  - _______________________________________________________
-
-  - Where appropriate, **insert graphics where visualizations can help participants better understand what they need to do better than text alone**. Creative Commons licensed images can be copied and pasted into your Google Doc, and then cited at the end of the document.
+- In-Class Activity Steps:
+  - _______________________________
+  - _______________________________
+  - _______________________________
+  - _______________________________
+- Where appropriate, **insert graphics where visualizations can help participants better understand what they need to do better than text alone**. Creative Commons licensed images can be copied and pasted into your Google Doc, and then cited at the end of the document.
 
 3. **Review your in-class activity to make sure that as much as possible the activity is**: 
 - Active, 
