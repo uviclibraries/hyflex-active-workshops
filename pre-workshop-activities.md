@@ -18,7 +18,7 @@ parent: Workshop Activities
   - Approximate viewing or reading time
   - URL of the video or document
 
-**E.G.**
+**E.G.**<br>
 [C, D] TinkerCAD Keyboard Shortcuts (2 min) - http://bit.ly/2KgQAPA <br>
 [______] _______________________________________ (___ min) - ____________________ <br>
 [______] _______________________________________ (___ min) - ____________________  <br>
