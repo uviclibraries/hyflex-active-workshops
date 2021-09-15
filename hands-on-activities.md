@@ -49,3 +49,7 @@ parent: Workshop Activities
 - For example an introduction to Excel workshop took five separate activities to cover all of the learning outcomes, however, participants could choose to complete only the activities that were relevant to them.
 - Some participants had some experience with Excel, so they could skip ahead to the more advanced activities. For others, creating a Pivot table was an important skill to acquire, while most simply wanted to learn how to use basic functions, and create charts and tables from the results. 
 - Using multiple activities with handouts gives participants choice and the ability to work at their own pace, while having an instructor present to answer questions. Sometimes this form of instruction, when combined with pre-workshop videos or readings, is called flipped learning.
+
+Good job! Time to move on to creating some pre-workshop activites to help prepare participants to fully engage in learning activities as quickly as possible.
+
+[NEXT STEP: Pre-Workshop Materials](pre-workshop-materials.html){: .btn .btn-blue }
