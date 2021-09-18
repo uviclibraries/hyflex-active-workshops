@@ -35,12 +35,13 @@ parent: Workshop Activities
 
 ### Teaching Tips:
 7. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
-8. **Guide on the Side**: Lead the workshop as a “Guide on the Side” rather than lecturing like a “Sage on the Stage.” Put as much instructional material as possible into the pre-workshop videos so that the majority of the face-to-face time can be used for hands-on learning.
-9. **Workshop Introductions**: At the beginning of the workshop, introduce yourself and ask participants to do the same. It can be helpful knowing the background of participants, as well as what they hope to get out of the workshop so you as an instructor can customize the workshop on the fly to best meet the needs of participants. Here are some sample prompts: 
+8. **What's the Big Idea**: What is the big idea that will capture the imagination of your learners at the start of your face-to-face session?
+9. **Guide on the Side**: Lead the workshop as a “Guide on the Side” rather than lecturing like a “Sage on the Stage.” Put as much instructional material as possible into the pre-workshop videos so that the majority of the face-to-face time can be used for hands-on learning.
+10. **Workshop Introductions**: At the beginning of the workshop, introduce yourself and ask participants to do the same. It can be helpful knowing the background of participants, as well as what they hope to get out of the workshop so you as an instructor can customize the workshop on the fly to best meet the needs of participants. Here are some sample prompts: 
 - What is your name?
 - Which faculty or department are you from on campus?
 - What is one thing they hope to get out of the workshop?
-10. **Make workshop activities directly relevant**: Encourage participants to use their own data, or customize the in-class activities so that they can tackle one of their own projects as they learn new skills during the workshop (if possible).
-11. **Positive Feedback**: Give positive feedback to participants as often as you can. This is particularly important for learners who are struggling, or in introductory workshops where learners are still mastering the basics.  Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
+11. **Make workshop activities directly relevant**: Encourage participants to use their own data, or customize the in-class activities so that they can tackle one of their own projects as they learn new skills during the workshop (if possible).
+12. **Positive Feedback**: Give positive feedback to participants as often as you can. This is particularly important for learners who are struggling, or in introductory workshops where learners are still mastering the basics.  Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
 
 - Button here...
