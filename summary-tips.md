@@ -4,7 +4,7 @@ title: 6-Summary & Tips
 nav_order: 6
 parent: Workshop Activities
 ---
-# Summary & Quick Tips
+# Workshop Summary & Quick Tips for Reference
 
 ### Learning Outcomes:
 1. Create SMART learning outcomes for each of the things you want participants in your workshop to be able to do by the end of the workshop. Each learning outcome should be: 
@@ -16,9 +16,8 @@ parent: Workshop Activities
 2. Here are examples of two SMART learning outcomes: 
 - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create a compound object.” 
 - “By the end of this workshop participants will be able to describe the copyright and sharing issues around 3D design and printing.”
-
 ### In-Class Activities:
-3. ands-on activities guiding principles:
+3. Hands-on activities guiding principles:
 - **Active**: Ideally get participants actively engaged in skill development as soon as possible in the workshop, and for as much time as possible during face-to-face time. Lecture for only as long as absolutely necessary.
 - **Contextual**: The workshop should teach skills to participants that will help them either solve a problem that they currently have, or help them make progress on a class assignment. Our goal should be Just-in-time learning, not Just-in-case learning.
 - **Choice**: Students should have as much choice as possible during the workshop, whether that be a choice of in-class activities, or to modify the activity to help solve a specific problem that they would like to solve. 
