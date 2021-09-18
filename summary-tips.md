@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 ### Learning Outcomes:
 1. Create SMART learning outcomes for each of the things you want participants in your workshop to be able to do by the end of the workshop. Each learning outcome should be: 
-- **Specific**: Exactly what is to be learned - who, what, where, why?
+- <img src="images/flipped-students.png" style="float:right;width:300px;" alt="Students Learning in a Flipped classroom">**Specific**: Exactly what is to be learned - who, what, where, why?
 - **Measurable**: How will it be determined that the specific learning outcome has been met?
 - **Attainable**: Ideally challenging learning outcomes within the ability of participants to achieve. Not out of reach but not too easy.
 - **Relevant**: How does the learning outcomes relate to the needs and desires of the workshop participants?
@@ -16,6 +16,7 @@ parent: Workshop Activities
 2. Here are examples of two SMART learning outcomes: 
 - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create a compound object.” 
 - “By the end of this workshop participants will be able to describe the copyright and sharing issues around 3D design and printing.”
+
 ### In-Class Activities:
 3. Hands-on activities guiding principles:
 - **Active**: Ideally get participants actively engaged in skill development as soon as possible in the workshop, and for as much time as possible during face-to-face time. Lecture for only as long as absolutely necessary.
@@ -30,7 +31,7 @@ parent: Workshop Activities
 5. The same goes with readings. You can create your own, but you may also be able to find many high quality open educational resources that you can link to and cite.
 
 ### Trial Run:
-6. <img src="images/flipped-students.png" style="float:right;width:300px;" alt="Students Learning in a Flipped classroom">Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
+6. Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
 
 ### Teaching Tips:
 7. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
