@@ -44,4 +44,4 @@ parent: Workshop Activities
 11. **Make workshop activities directly relevant**: Encourage participants to use their own data, or customize the in-class activities so that they can tackle one of their own projects as they learn new skills during the workshop (if possible).
 12. **Positive Feedback**: Give positive feedback to participants as often as you can. This is particularly important for learners who are struggling, or in introductory workshops where learners are still mastering the basics.  Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
 
-- Button here...
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
