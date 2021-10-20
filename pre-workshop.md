@@ -15,7 +15,7 @@ This workshop is primarily hands-on that will help you create the outline and so
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FAWidtL7pKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [DSC Flipped Workshop Overview](https://www.youtube.com/watch?v=rXfTHVG_jmE){:target="_blank"} (6 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rXfTHVG_jmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Flipped Classroom Drawbacks](https://youtu.be/hXdbRatrX64?t=487){:target="_blank"} (2 min)<br>
+- [Flipped Classroom Drawbacks](https://youtu.be/hXdbRatrX64?t=487){:target="_blank"} (2 min) NOTE: Please skip ahead to the 8 minute mark in the embedded video.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hXdbRatrX64?t=487" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Learning Outcomes](https://www.youtube.com/watch?v=eXxTpDg1thI){:target="_blank"} (5 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXxTpDg1thI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
