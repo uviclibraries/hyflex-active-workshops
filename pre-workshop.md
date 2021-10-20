@@ -10,7 +10,7 @@ This workshop is primarily hands-on that will help you create the outline and so
 - [HyFlex - Learn from Anywhere!](https://www.youtube.com/watch?v=9OmqjtcOnI4){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9OmqjtcOnI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Flipping the Classroom](https://www.youtube.com/watch?v=BfsLbGgUMDU){:target="_blank"} (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BfsLbGgUMDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BfsLbGgUMDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [DSC Flipped Workshop Overview](https://www.youtube.com/watch?v=rXfTHVG_jmE){:target="_blank"} (6 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rXfTHVG_jmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Flipped Classroom Drawbacks](https://youtu.be/hXdbRatrX64?t=487){:target="_blank"} (2 min)<br>
