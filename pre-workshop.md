@@ -25,7 +25,5 @@ This workshop is primarily hands-on that will help you create the outline and so
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDA3_5982h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - OPTIONAL: [Resize Handouts for Your Laptop Screen](https://youtu.be/Igk5hZUfzN0){:target="_blank"} (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- OPTIONAL: [Enabling Desktop Sharing in Zoom & Privately Request Assistance during the workshop](https://youtu.be/TWb-bms3R2Y){:target="_blank"} (2 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TWb-bms3R2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
