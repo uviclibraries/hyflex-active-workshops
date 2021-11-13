@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on that will help you create the outline and some content for a Hyflex, Active Learning workshop. To participate fully please do the following **before the workshop**:
 
 - **Before you arrive at the workshop**, please think of a new workshop tool or topic that might make an interesting workshop for the DSC (or for your organization if you are not part of the DSC). For example, I am interested in the Voyant Data Vistualization toolset and think it would be a good workshop topic. I would use the Voyant toolset topic to create a workshop outline, and potential activities during our face-to-face workshop time. 
-- Review this [DSC Hyflex Infographic](/images/HyFlex-infographic.png){:target="_blank"} to get a sense for what HyFlex is in the context of library based digital fluency workshops (click on the image to the right to enlarge).
+- Review this [DSC Hyflex Infographic](/images/HyFlex-infographic.png){:target="_blank"} to get a sense for what HyFlex is in the context of library based digital fluency workshops (click the image on the right to enlarge).
 - [HyFlex - Learn from Anywhere!](https://www.youtube.com/watch?v=9OmqjtcOnI4){:target="_blank"} (1 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9OmqjtcOnI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Flipping the Classroom](https://www.youtube.com/watch?v=BfsLbGgUMDU){:target="_blank"} (2 min)<br>
