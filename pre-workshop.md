@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-<img src="images/HyFlex-infographic.png" alt="Hyflex Infographic" style="float:right;width:180px;">## Pre-Workshop Videos & Activities
+## <img src="images/HyFlex-infographic.png" alt="Hyflex Infographic" style="float:right;width:180px;">Pre-Workshop Videos & Activities
 This workshop is primarily hands-on that will help you create the outline and some content for a Hyflex, Active Learning workshop. To participate fully please do the following **before the workshop**:
 
 - **Before you arrive at the workshop**, please think of a new workshop tool or topic that might make an interesting workshop for the DSC (or for your organization if you are not part of the DSC). For example, I am interested in the Voyant Data Vistualization toolset and think it would be a good workshop topic. I would use the Voyant toolset topic to create a workshop outline, and potential activities during our face-to-face workshop time. 
