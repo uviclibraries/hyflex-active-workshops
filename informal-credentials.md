@@ -12,7 +12,7 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for this workshop
+### Earn an Informal Credential or Badge for this workshop: Creating & Teaching HyFlex, Active Learning Workshops
 
 If you’d like to earn a DSC badge for this workshop, please email the Hyflex, Active Learning workshop outline you created with the Google Doc template to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 
