@@ -17,8 +17,8 @@ parent: Workshop Activities
 - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create a compound object.” 
 - “By the end of this workshop participants will be able to describe the copyright and sharing issues around 3D design and printing.”
 
-### In-Class Activities:
-3. Hands-on activities guiding principles:
+### Creating Activities:
+3. Creating hands-on activities guiding principles:
 - **Active**: Ideally get participants actively engaged in skill development as soon as possible in the workshop, and for as much time as possible during face-to-face time. Lecture for only as long as absolutely necessary.
 - **Contextual**: The workshop should teach skills to participants that will help them either solve a problem that they currently have, or help them make progress on a class assignment. Our goal should be Just-in-time learning, not Just-in-case learning.
 - **Choice**: Students should have as much choice as possible during the workshop, whether that be a choice of in-class activities, or to modify the activity to help solve a specific problem that they would like to solve. 
