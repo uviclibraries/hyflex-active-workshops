@@ -17,9 +17,10 @@ parent: Workshop Activities
 - **Make the topic you just chose the title of your workshop template.** Please take a few minutes and decide what your workshop topic will be for the workshop, and it down. 
 
 3. As you create learning objectives for your topic, make sure you keep your target audience in mind:
-- Who is your audience? What is their age and education level? Do they have experience with the topic you chose, or something closely related?
+- **Who is your audience?** What is their age and education level? Do they have experience with the topic you chose, or something closely related?
+- **What is the "Big Idea"** that will capture their imagination or inspire them to fully engage with the workshop instruction and activities?
 - What do you think they would like to get out of the workshop collectively and as individuals? Don’t be afraid to ask your colleagues, and prospective students what they would like to get out of the workshop. Occasionally you may find that the specific topic you chose is not as popular as you thought it was, so you may need to tweak or abandon the topic.
-- The Curse of Expertise (Fisher & Keil, 2016): 
+- **The Curse of Expertise** (Fisher & Keil, 2016): 
   - If you have significant experience or expertise in the area of the workshop, it is often difficult to remember what things or skills that you don’t need to explain in detail and which you’ll have to elaborate on. 
   - To guard against “the curse of expertise,” beta-test your workshop with a trusted novice so that you can get accurate feedback on what areas and words that need more explanation, and which areas you may have elaborated on too much.
 
