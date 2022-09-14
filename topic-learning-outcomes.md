@@ -7,7 +7,7 @@ parent: Workshop Activities
 <img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
 # Choosing a New Workshop Topic & Creating Learning Objectives
 
-Step by step we will work through the process of creating an outline for a real, or fictitious, workshop following best practices for creating HyFlex, Flipped Learning workshops. If you have any questions, concerns, or would appreciate some guidance, please do not hesitate to ask your instructor for assistance. Let's start!
+Step by step we will work through the process of creating an outline for a real, or fictitious, workshop following best practices for creating HyFlex, Flipped Learning workshops. If you have any questions, concerns, or would appreciate some guidance, please do not hesitate to ask your instructor for assistance. Let's get started!
 
 1. We have provided a workshop template for you to use, to help you organize your workshop, and you can either use a printed copy of the template provided by the workshop instructor or open the template below and make a copy for yourself to use as you create your own workshop: 
 - **[Open Instructor outline template](http://bit.ly/2SKcBf6){:target="_blank"}** (a Google Doc)
@@ -53,9 +53,7 @@ B. __________________________________<br>
 C. __________________________________<br>
 
 - After creating the learning objectives for your workshop, you need to decide if the learning objectives can be achieved within the parameters of a typical DSC workshop. Workshop parameters typically include:
-  - How much time do you have to run the workshop? 60 minute, 90 minutes, 120 minutes? Estimate the length of time it will take to achieve each of the learning objectives. 
-    - Can you cover them all at least minimally in the time available? 
-    - Do you need to split the workshop into an introduction and intermediate workshops?
+  - How much time do you have to run the workshop? 60 minute, 90 minutes, 120 minutes? Estimate the length of time it will take to achieve each of the learning objectives. Can you cover them all at least minimally in the time available? Do you need to split the workshop into an introduction and intermediate workshops?
   - If specific tools or equipment are essential to the workshop, how many participants can reasonably use the equipment/tools available and still achieve the learning objectives?
   - How many instructors and/or teaching assistants are available to teach the workshop?
   - How many people can the room, lab, or makerspace accommodate?
