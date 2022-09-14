@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Hands-On Activities
+title: 2-Hands-On Activities
 nav_order: 3
 parent: Workshop Activities
 ---
