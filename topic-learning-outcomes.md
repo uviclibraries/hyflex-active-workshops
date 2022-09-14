@@ -33,7 +33,7 @@ Step by step we will work through the process of creating an outline for a real,
   - If you have significant experience or expertise in the area of the workshop, it is often difficult to remember what things or skills that you don’t need to explain in detail and which you’ll have to elaborate on. 
   - To guard against “the curse of expertise,” beta-test your workshop with a trusted novice so that you can get accurate feedback on what areas and words that need more explanation, and which areas you may have elaborated on too much.
 
-4. Create SMART Learning Objectives - Begin with the end in mind:
+4. Begin with the end in mind by createing **SMART Learning Objectives**:
 - Learning objectives should each be SMART: Specific, Measurable, Attainable, Relevant, and Time-based (Chatterjee & Corral, 2017).
   - **Specific**: Exactly what is to be learned - who, what, where, why?
   - **Measurable**: How will it be determined that the specific learning outcome has been met?
@@ -44,7 +44,7 @@ Step by step we will work through the process of creating an outline for a real,
   - “By the end of this workshop participants will be able to add new shapes and text to the TinkerCad workspace in order to create the compound object(s) they desire.” 
 <img src="images/smart.png" alt="SMART Learning objectives">
   - “By the end of this workshop participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
-- **Create two or more SMART learning objectives** in the instructor outline in the **Learning objectives** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning objectives and as many as nine.
+- **Create two or more SMART learning objectives** in the instructor outline you made a copy of, in the **Learning objectives** section - things you want each participant to leave your workshop knowing how to do. Current DSC workshops have as few as four learning objectives and as many as nine.
 
 <br>**Learning objectives:**
 
@@ -53,7 +53,9 @@ B. __________________________________<br>
 C. __________________________________<br>
 
 - After creating the learning objectives for your workshop, you need to decide if the learning objectives can be achieved within the parameters of a typical DSC workshop. Workshop parameters typically include:
-  - How much time do you have to run the workshop? 60 minute, 90 minutes, all day? Estimate the length of time it will take to achieve each of the learning objectives. Can you cover them all at least minimally in the time available?
+  - How much time do you have to run the workshop? 60 minute, 90 minutes, 120 minutes? Estimate the length of time it will take to achieve each of the learning objectives. 
+    - Can you cover them all at least minimally in the time available? 
+    - Do you need to split the workshop into an introduction and intermediate workshops?
   - If specific tools or equipment are essential to the workshop, how many participants can reasonably use the equipment/tools available and still achieve the learning objectives?
   - How many instructors and/or teaching assistants are available to teach the workshop?
   - How many people can the room, lab, or makerspace accommodate?
