@@ -12,7 +12,7 @@ parent: Workshop Activities
 - This face-to-face introduction should last only 5-10 minutes, including the introductory slides.
 - A good guideline is to use more relevant photos or graphics, and less text. Speak to the images on the slides and most of the time have only 1-5 words per slide (cite). See the template below, paying attention to both the slides and the speaker notes below the slides.
 2. You can use the slides from this workshop as a template for your own workshop:
-- http://bit.ly/2SDIu8M 
+- [Workshop Slides](http://bit.ly/2SDIu8M){:target="_blank"} 
 - Make your own copy of the slides to edit, by going to the top menu, File -> Make a copy 
 3. Presenter slides URL: _______________________________________________
 
