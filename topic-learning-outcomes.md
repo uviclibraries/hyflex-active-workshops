@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Choose Topic & Learning Objectives
+title: 1-Choose Topic & Learning Objectives
 nav_order: 2
 parent: Workshop Activities
 ---
