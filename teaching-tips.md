@@ -13,14 +13,14 @@ parent: Workshop Activities
 - A good guideline is to use more relevant photos or graphics, and less text. Speak to the images on the slides and most of the time have only 1-5 words per slide (cite). See the template below, paying attention to both the slides and the speaker notes below the slides.
 2. You can use the slides from this workshop as a template for your own workshop:
 - [Workshop Slides](http://bit.ly/2SDIu8M){:target="_blank"} 
-- Make your own copy of the slides to edit, by going to the top menu, File -> Make a copy 
+- Make your own copy of the slides to edit, by going to the top menu, **File** -> **Make a copy** 
 3. Presenter slides URL: _______________________________________________
 
 ### Teaching Tips:
 4. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
 5. **What’s the Big Idea**: What is the big idea that will capture the imagination of your learners at the start of your face-to-face session?
 6. **Guide on the Side**: Lead the workshop as a “Guide on the Side” rather than lecturing like a “Sage on the Stage.” Put as much instructional material as possible into the pre-workshop videos so that the majority of the face-to-face time can be used for hands-on learning.
-7. **Workshop Introductions**: At the beginning of the workshop, ask participants to introduce themselves. It can be helpful knowing the background of participants, as well as what they hope to get out of the workshop so you as an instructor can customize the workshop on the fly to best meet the needs of participants. Here are some sample prompts: 
+7. **Workshop Introductions**: At the beginning of the workshop, ask participants to introduce themselves (unless it's a really large group, in which as you can ask them to introduce themselvses in the Zoom chat). It can be helpful knowing the background of participants, as well as what they hope to get out of the workshop so you as an instructor can customize the workshop on the fly to best meet the needs of participants. Here are some sample prompts: 
 - What is your name?
 - Which faculty or department are you from on campus?
 - What is one thing they hope to get out of the workshop?
