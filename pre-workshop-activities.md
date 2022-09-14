@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Pre-Workshop Activities
+title: 3-Pre-Workshop Activities
 nav_order: 4
 parent: Workshop Activities
 ---
