@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Summary & Teaching Tips
+title: 5-Summary & Teaching Tips
 nav_order: 6
 parent: Workshop Activities
 ---
