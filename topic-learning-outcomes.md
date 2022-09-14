@@ -7,10 +7,12 @@ parent: Workshop Activities
 <img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
 # Choosing a New Workshop Topic & Creating Learning Objectives
 
+Step by step we will work through the process of creating an outline for a real, or fictitious, workshop following best practices for creating HyFlex, Flipped Learning workshops. If you have any questions, concerns, or would appreciate some guidance, please do not hesitate to ask your instructor for assistance. Let's start!
+
 1. We have provided a workshop template for you to use, to help you organize your workshop, and you can either use a printed copy of the template provided by the workshop instructor or open the template below and make a copy for yourself to use as you create your own workshop: 
 - **[Open Instructor outline template](http://bit.ly/2SKcBf6){:target="_blank"}** (a Google Doc)
 - Make a copy of it for you to edit and work on: **File** -> **Make a Copy…**   
-- Give your workshop an appropriate name.
+- Give your workshop an appropriate file name. E.g. _My First HyFlex Workshop_
 
 2. Select your workshop topic for today:
 - Select or create a topic for an introductory workshop that you would like to create. The topic should be something that you have some interest or expertise in, as well as the tools and classroom space to effectively teach. You can always change your topic, and you don't need to turn this into a real workshop, so don't worry about having a high quality topic for the workshop. The point is to have a topic that you can practice turing into a high quality workshop outline.
