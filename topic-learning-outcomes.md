@@ -53,12 +53,12 @@ B. __________________________________<br>
 C. __________________________________<br>
 
 - After creating the learning objectives for your workshop, you need to decide if the learning objectives can be achieved within the parameters of a typical DSC workshop. Workshop parameters typically include:
-  - How much time do you have to run the workshop? 60 minute, 90 minutes, 120 minutes? Estimate the length of time it will take to achieve each of the learning objectives. Can you cover them all at least minimally in the time available? Do you need to split the workshop into an introduction and intermediate workshops?
+  - How much time do you have to run the workshop? 60 minute, 90 minutes, 120 minutes? Estimate the length of time it will take to achieve each of the learning objectives. Can you cover them all at least minimally in the time available? 
   - If specific tools or equipment are essential to the workshop, how many participants can reasonably use the equipment/tools available and still achieve the learning objectives?
   - How many instructors and/or teaching assistants are available to teach the workshop?
   - How many people can the room, lab, or makerspace accommodate?
 - Keeping in mind the parameters of the workshop you have just identified, **do you need to reduce the number of learning objectives?** Some options to consider if you need to eliminate some learning objectives:
-  - Split up the workshop into more than one session.
+  - Do you need to split the workshop into an introduction and intermediate workshops?
   - Determine what learning objectives can be moved into an intermediate workshop.
   - Drop one or more learning objectives.
 
