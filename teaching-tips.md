@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Teaching Tips & Trial Run
+title: 4-Teaching Tips & Trial Run
 nav_order: 5
 parent: Workshop Activities
 ---
