@@ -28,20 +28,20 @@ parent: Workshop Activities
 
 ### Pre-Class Videos & Readings:
 4. You can create your own pre-workshop videos, but you may be able to find excellent resources on YouTube shared by other educators. 
-5. The same goes with readings. You can create your own, but you may also be able to find many high quality open educational resources that you can link to and cite.
+5. The same goes with readings. You can create your own, but you may also be able to find many high-quality open educational resources that you can link to and cite.
 
 ### Trial Run:
 6. Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
 
 ### Teaching Tips:
-7. **Active Learning NOT Lecturing!** Don't forget that one of your main goals should be to get learners working on practical activities to develop their skills, which means that you shouldn't be lecturing for more than 15% to 25% of the workshop time. Workshop participants will remember much more from the hands-on activities than from a lecture.
+7. **Active Learning NOT Lecturing!** Don't forget that one of your main goals should be to get learners working on practical activities as quickly as possible, which means that you shouldn't be lecturing for more than 15% to 25% of the run time for a workshop. Participants will remember much more from the hands-on activities than from a lecture.
 7. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
 8. **What's the Big Idea**: What is the big idea that will capture the imagination of your learners at the start of your face-to-face session?
 9. **Guide on the Side**: Lead the workshop as a “Guide on the Side” rather than lecturing like a “Sage on the Stage.” Put as much instructional material as possible into the pre-workshop videos so that the majority of the face-to-face time can be used for hands-on learning.
-10. **Workshop Introductions**: At the beginning of the workshop, introduce yourself and ask participants to do the same. It can be helpful knowing the background of participants, as well as what they hope to get out of the workshop so you as an instructor can customize the workshop on the fly to best meet the needs of participants. Here are some sample prompts: 
-- What is your name?
-- Which faculty or department are you from on campus?
-- What is one thing they hope to get out of the workshop?
+10. **Workshop Introductions**: At the beginning of the workshop (or even better if you can before the workshop start time), introduce yourself and ask participants to do the same. It can be helpful knowing the background of participants, as well as what they hope to get out of the workshop so you as an instructor can customize the workshop on the fly to best meet the needs of participants. Here are some sample prompts: 
+  - What is your name?
+  - Which faculty or department are you from on campus?
+  - What is one thing they hope to get out of the workshop?
 11. **Make workshop activities directly relevant**: Encourage participants to use their own data, or customize the in-class activities so that they can tackle one of their own projects as they learn new skills during the workshop (if possible).
 12. **Positive Feedback**: Give positive feedback to participants as often as you can. This is particularly important for learners who are struggling, or in introductory workshops where learners are still mastering the basics.  Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
 
