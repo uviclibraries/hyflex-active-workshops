@@ -34,7 +34,7 @@ parent: Workshop Activities
 6. Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
 
 ### Teaching Tips:
-7. **Active Learning NOT Lecturing!** Don't forget that one of your main goals should be to get learners working on practical activities to develop their skills, which means that you shouldn't be lecturing for more than 15% to 25% of the workshop time.
+7. **Active Learning NOT Lecturing!** Don't forget that one of your main goals should be to get learners working on practical activities to develop their skills, which means that you shouldn't be lecturing for more than 15% to 25% of the workshop time. Workshop participants will remember much more from the hands-on activities than from a lecture.
 7. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
 8. **What's the Big Idea**: What is the big idea that will capture the imagination of your learners at the start of your face-to-face session?
 9. **Guide on the Side**: Lead the workshop as a “Guide on the Side” rather than lecturing like a “Sage on the Stage.” Put as much instructional material as possible into the pre-workshop videos so that the majority of the face-to-face time can be used for hands-on learning.
