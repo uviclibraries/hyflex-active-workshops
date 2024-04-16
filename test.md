@@ -8,7 +8,7 @@ This workshop is primarily hands-on and will help you create the outline and som
 
 
 
-<div id='h5p-container'></div>
+<div id="h5p-container"></div>
 
 <script type="text/javascript" src="assets/main.bundle.js">
   const el = document.getElementById('h5p-container');
