@@ -8,14 +8,18 @@ This workshop is primarily hands-on and will help you create the outline and som
 
 <div id="h5p-container"></div>
 
-<script type="text/javascript" src="assets/main.bundle.js">
-  const el = document.getElementById('h5p-container');
-  const options = {
-    h5pJsonPath:  '/h5p-folder',
-    frameJs: '/assets/frame.bundle.js',
-    frameCss: '/assets/styles/h5p.css',
-  }
-new H5PStandalone.H5P(el, options);
+<link type="text/css" rel="stylesheet" media="all" href="./assets/styles/h5p.css" />
+<script type="text/javascript" src="./assets/main.bundle.js"></script>
+  
+<script type="text/javascript">
+  const {
+    H5P
+  } = H5PStandalone;
+  new H5P(document.getElementById('h5p-container'), {
+    h5pJsonPath: 'h5p-folder',
+    frameJs: './assets/frame.bundle.js',
+    frameCss: './assets/styles/h5p.css'
+  });
 </script>
 
 **End of document**.
