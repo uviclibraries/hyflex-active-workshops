@@ -4,7 +4,7 @@ title: Test Pre-Workshop Activities
 ---
 
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on and will help you create the outline and some content for a Hyflex, Active Learning workshop. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on and will help you create the outline and some content for a Hyflex, Active Learning workshop. To participate fully please do the following **before the workshop:**
 
 <div id="h5p-container"></div>
 
