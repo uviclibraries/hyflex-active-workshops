@@ -1,4 +1,4 @@
-# Creating & Teaching HyFlex, Active Learning Workshops
+# Creating & Teaching Active Learning Workshops
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/hyflex-active-workshops/
