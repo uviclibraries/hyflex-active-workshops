@@ -28,8 +28,8 @@ We'll start by discussing what workshops' learning objectives are and why they a
 <img src="images/smart.png" alt="SMART Learning objectives">
   - “By the end of this workshop, participants will have created an Excel scatter plot chart and trend line using their own data (or sample data), and shared it with the instructor.”
 - **Create two SMART learning objectives** for a workshop you'll be teaching in the coming weeks. Please don't look at the learning objectives that have already been created for the workshop
-
-<br>**Learning objectives:**
+<br>
+**Learning objectives:**
 
 A. __________________________________<br>
 B. __________________________________<br>
