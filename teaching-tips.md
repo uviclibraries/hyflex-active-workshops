@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 4-Teaching Tips & Trial Run
+title: 4-Teaching Tips
 nav_order: 5
 parent: Workshop Activities
 ---
 <img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
-# Teaching Tips & Trial Run
+# Teaching Tips
 
 ### In-Class Introductory Slides:
-1. One of the last steps is to create a short introduction in a workshop slide show to orient participants to the workshop and identify any common problems people run into in the in-workshop activities.
+1. One of the last steps is to review the workshop slide show to orient participants to the workshop and identify any common problems people run into in the in-workshop activities.
 - This face-to-face introduction should last only 5-10 minutes, including the introductory slides.
 - A good guideline is to use more relevant photos or graphics, and less text. Speak to the images on the slides and most of the time have only 1-5 words per slide (cite). See the template below, paying attention to both the slides and the speaker notes below the slides.
 2. You can use the slides from this workshop as a template for your own workshop:
