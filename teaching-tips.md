@@ -8,8 +8,8 @@ parent: Workshop Activities
 # Teaching Tips
 
 ### Pre-Workshop & Introductory Slides:
-1. Review slides for the workshop, including the text in the speaker notes. Make sure no important slides have been hidden by a previous instructor.
-2. If you are teaching online via Zoom, open the Zoom room no less than 10 minutes before the start of the workshop so that you can make sure that you can successfully log on, and test that your camera and microphone are working properly.
+1. **Review slides for the workshop**, including the text in the speaker notes. Make sure no important slides have been hidden by a previous instructor.
+2. If you are teaching online via Zoom, **open the Zoom room no less than 10 minutes before the start of the workshop** so that you can make sure that you can successfully log on, and test that your camera and microphone are working properly.
 
 ### Teaching Tips:
 4. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
