@@ -23,7 +23,7 @@ parent: Workshop Activities
 9. **Positive Feedback**: Give positive feedback to participants as often as you can. This is particularly important for learners who are struggling or in introductory workshops where learners are still mastering the basics. Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
 
 ### Trial Runs:
-8. Do a trial run workshop from start to finish with a group of in-house novices in order to identify any issues with the content or flow of the workshop in a real-life situation.
-9. Don’t forget to solicit feedback on the pre-workshop materials and registration process.
+8. Assist someone who has experience teaching the workshop, or do a trial run workshop from start to finish with a group of in-house novices, so you can practice leading the workshop.
+9. Don’t forget to solicit feedback on the pre-workshop materials and how the workshop was led.
 
 [NEXT STEP: Summary & Quick Tips](summary-tips.html){: .btn .btn-blue }
