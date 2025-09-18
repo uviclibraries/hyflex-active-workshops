@@ -7,11 +7,9 @@ parent: Workshop Activities
 <img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
 # Teaching Tips
 
-### In-Class Introductory Slides:
-1. One of the last steps is to review the slide show that will introduce them to the hands-on activities.
-- The introduction should last only 8-12 minutes, including the introductory slides.
-- A good guideline is to use more relevant photos or graphics, and less text. Speak to the images on the slides and most of the time have only 3-6 items per slide. 
-2. Review slides from this workshop to see how large blocks of text have been avoided, supporting images included, and a significant amount of text included in the speaker notes: [Workshop Slides](http://bit.ly/2SDIu8M){:target="_blank"} 
+### Pre-Workshop & Introductory Slides:
+1. Review slides for the workshop, including the text in the speaker notes. Make sure no important slides have been hidden by a previous instructor.
+2. If you are teaching online via Zoom, open the Zoom room no less than 10 minutes before the start of the workshop so that you can make sure that you can successfully log on, and test that your camera and microphone are working properly.
 
 ### Teaching Tips:
 4. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
