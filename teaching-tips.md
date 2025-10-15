@@ -14,8 +14,8 @@ parent: Workshop Activities
 
 ### Teaching Tips:
 4. **Workshop Introductions**: Before the workshop starts, individually ask participants to introduce themselves as they arrive (see the bullet point prompts below). If there are a lot of participants, ask as many as possible to introduce themselves verbally, and then once the start time for the workshop arrives, ask anyone who hasn't had a chance to introduce themselves to do so in the chat with the following prompts:
-  - Which faculty or department are you from on campus? 
-  - What is one thing you hope to get out of the workshop today?
+   - Which faculty or department are you from on campus? 
+   - What is one thing you hope to get out of the workshop today?
 4. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
 6. **Guide on the Side**: Lead the workshop as a “Guide on the Side” rather than lecturing like a “Sage on the Stage.” Lecture for only as much time is needed to introduce the topic so that participants can spend the majority of the face-to-face workshop working through activities of their choice.
 5. **What’s the Big Idea**: What is the big idea that will capture the imagination of your learners at the start of your face-to-face session?
