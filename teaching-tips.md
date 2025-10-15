@@ -6,7 +6,7 @@ parent: Workshop Activities
 ---
 <img src="images/apple-logo.png" style="float:right;width:180px;" alt="Apple Logo">
 
-# Teaching Tips
+# Tips for Leading DSC Workshops
 
 ### Pre-Workshop Preparation:
 1. **Review slides for the workshop**, including the text in the speaker notes. Check to make sure that no important slides have been hidden by a previous instructor.
