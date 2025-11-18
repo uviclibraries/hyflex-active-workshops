@@ -34,4 +34,4 @@ parent: Workshop Activities
 6. Have someone who is not familiar with the workshop topic work through the pre-class workshop materials and in-class activities to make sure that they flow together nicely and that there are no obvious errors.
 
 
-[NEXT STEP: Informal Credentials](Informal Credentials.html){: .btn .btn-blue }
+[NEXT STEP: Informal Credentials](informal-redentials.html){: .btn .btn-blue }
