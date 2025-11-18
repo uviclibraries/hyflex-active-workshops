@@ -12,7 +12,7 @@ parent: Workshop Activities
 - **Workshop Welcome**: Before the workshop starts Greet as many workshop participants as possible asking the two questions below. If the group is larger greet as many as possible and then no later than 2 minutes past the start time ask those you couldn't greet personally to answer the questions below in the chat for you to look at after you finishing the workshop introduction:
   - Which faculty or department are you from on campus?
   - What is one thing they hope to get out of the workshop?
--  **Screen Sharing by Participants**: Once you've finished your introduction, shown participants with no external monitor how to organize their screen, and shared a link to the workshop activities, then walk them through the process of how to share their screen with you in Zoom so that only you and your assistant can virtually wander around the Zoom room and check in with people like you'd do in a physical classroom. If you're unsure how to do this, please ask Rich to show you how.
+- **Screen Sharing by Participants**: Once you've finished your introduction, shown participants with no external monitor how to organize their screen, and shared a link to the workshop activities, then walk them through the process of how to share their screen with you in Zoom so that only you and your assistant can virtually wander around the Zoom room and check in with people like you'd do in a physical classroom. If you're unsure how to do this, please ask Rich to show you how.
 - **Follow up Individually**: If there are 15 or less participats in the workshop follow up with each particiant individually to see if they need any assistance rather than asking the group if anyone needs assistance. People are much more likely to ask for help if you say, "__**Rich, how are you doing? Do you have any questions or would like help with anything?**__". If there are more than 15 people, then ask people
 
 ### Pre-Workshop Preparation:
@@ -20,7 +20,7 @@ parent: Workshop Activities
 2. If you are teaching online via Zoom, **open the Zoom room no less than 10 minutes before the start of the workshop** so that you can make sure that you can successfully log on, and test that your camera and microphone are working properly.
 3. **Start sharing your screen before the workshop starts** so that you can organize the Zoom windows on your screen, like the participants and chat windows, so that you don't spend valuable workshop time doing this.
 
-### Teaching Tips:
+### Teaching Tips in More Detail:
 4. **Be Excited!** Instructors who are excited about what they are teaching are typically more effective in helping their students to learn than non-excited teachers. An instructor’s excitement can be infectious.
 5. **Workshop Introductions**: Before the workshop starts, individually ask participants to introduce themselves as they arrive (see the bullet point prompts below). If there are a lot of participants, ask as many as possible to introduce themselves verbally, and then once the start time for the workshop arrives, ask anyone who hasn't had a chance to introduce themselves to do so in the chat with the following prompts:
    - Which faculty or department are you from on campus? 
@@ -33,4 +33,4 @@ parent: Workshop Activities
   - If they're struggling with an uncommon problem, often setup issues or something related to being very inexperienced with technology, it's best to ask them if they'd like to go to a breakout room with you so you can help them without distrubing the other workshop participants. Your co-host can stay in the main Zoom room and triage any questions that come up while you're gone.
 10. **Positive Feedback**: Throughout the workshop, give positive feedback to participants as often as you can. This is particularly important for learners who are struggling or in introductory workshops where learners are still mastering the basics. Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
 
-[NEXT STEP: Summary & Quick Tips](summary.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Summary](summary.html){: .btn .btn-blue }
