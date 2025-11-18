@@ -2,7 +2,7 @@
 layout: default
 title: Summary
 nav_order: 6
-parent: Workshop Activities
+parent: Workshop Creation Summary
 ---
 # Workshop Summary
 
