@@ -2,9 +2,9 @@
 layout: default
 title: Summary
 nav_order: 6
-parent: Workshop Creation Summary
+parent: Workshop Activities
 ---
-# Workshop Summary
+# Workshop Creation Summary
 
 ### Learning Outcomes:
 1. Create SMART learning outcomes for each of the things you want participants in your workshop to be able to do by the end of the workshop. Each learning outcome should be: 
