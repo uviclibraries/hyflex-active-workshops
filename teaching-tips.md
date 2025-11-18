@@ -33,4 +33,4 @@ parent: Workshop Activities
   - If they're struggling with an uncommon problem, often setup issues or something related to being very inexperienced with technology, it's best to ask them if they'd like to go to a breakout room with you so you can help them without distrubing the other workshop participants. Your co-host can stay in the main Zoom room and triage any questions that come up while you're gone.
 10. **Positive Feedback**: Throughout the workshop, give positive feedback to participants as often as you can. This is particularly important for learners who are struggling or in introductory workshops where learners are still mastering the basics. Positive feedback for novices is a much more effective motivator than critiques or negative feedback.
 
-[NEXT STEP: Workshop Summary](summary.html){: .btn .btn-blue }
+[NEXT STEP: Workshop Creation Summary](summary.html){: .btn .btn-blue }
