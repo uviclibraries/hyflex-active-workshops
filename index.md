@@ -30,5 +30,6 @@ At the end of this workshop, you will be able to:
 6. Create an outline for a new workshop in the following order: learning outcomes, in-class activities, pre-class prep quiz, pre-class videos, and finally, post-class assessment.
 7. Describe the difference between leading a workshop as a “Guide on the Side” as opposed to as a “Sage on the Stage.”
 8. Model best practices for leading Active Learning digital fluency workshops, including energy level, introductions, and identifying participants who need help and aren’t asking for it.
+9. Be Awsome!
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
